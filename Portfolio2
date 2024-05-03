@@ -18,7 +18,7 @@
         </style>
         <meta charset = "UTF-8">
         <meta name = "viewport" content = "width=device-width" />
-        <link rel="stylesheet" type="text/css" href="stylesheet/sample_portfolio.css">
+        <link rel="stylesheet" type="text/css" href="stylesheet/portfolio2.css">
         <title>My Portfolio</title>
     </head>
     <body class = "Background">
@@ -140,6 +140,6 @@
             <br>
         </p>
     </footer>
-    <script src="JS/sample_portfolio.js"></script>
+    <script src="JS/portfolio2.js"></script>
     </body>
 </html>
