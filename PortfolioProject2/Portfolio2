@@ -61,7 +61,7 @@
         	<div id = "Slideshow_Background">
             	<div id = "Slideshow_Container">
                 	<div class = "mySlides fade"
-                    	<img class="Slideshow_Images" src="https://github.com/SektorCyrax/sektorcyrax-portfolio2.github.io/blob/main/Jempol_Ngadep_Atas_(cropped).jpg" alt="I'm here to help!">
+                    	<img class="Slideshow_Images" src="/images/Jempol_Ngadep_Atas_(cropped).jpg" alt="I'm here to help!">
                     </div>
                     
                     <div class="mySlides fade">
