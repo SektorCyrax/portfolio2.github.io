@@ -29,6 +29,7 @@
             <a href = "#GitHub"><h2>GitHub</h2></a>
             <a href = "#Contact"><h2>Contact</h2></a>
         </div>
+        
         <br>
         <br>
 
@@ -72,12 +73,12 @@
                     
                     <div class="mySlides fade">
                         <img class="Slideshow_Images" src="https://github.com/SektorCyrax/sektorcyrax-portfolio2.github.io/blob/main/Python-logo-notext.svg.png" alt="Python logo">
-                        <div class="text">the popular programming language Python,</div>
+                        <div class="text">the popular programming language Python.</div>
 
-</div>
-      <a class="Previous" onclick="plusSlides(-1)">&#10094;</a>
+                    </div>
+                    <a class="Previous" onclick="plusSlides(-1)">&#10094;</a>
                     <a class="Next" onclick="plusSlides(1)">&#10095;</a>
-                </div>
+                    </div>
                 <br> 
 
                 <div style="text-align: center">
