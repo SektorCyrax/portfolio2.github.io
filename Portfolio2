@@ -18,7 +18,7 @@
         </style>
         <meta charset = "UTF-8">
         <meta name = "viewport" content = "width=device-width" />
-        <link rel="stylesheet" type="text/css" href="https://github.com/SektorCyrax/sektorcyrax-portfolio2.github.io/blob/main/portfolio2.css">
+        <link rel="stylesheet" type="text/css" href="portfolio2.css">
         <title>My Portfolio</title>
     </head>
     <body class = "Background">
@@ -29,7 +29,6 @@
             <a href = "#GitHub"><h2>GitHub</h2></a>
             <a href = "#Contact"><h2>Contact</h2></a>
         </div>
-        
         <br>
         <br>
 
@@ -62,22 +61,23 @@
         	<div id = "Slideshow_Background">
             	<div id = "Slideshow_Container">
                 	<div class = "mySlides fade"
-                    	<img class="Slideshow_Images" src="/PortfolioProject2/Jempol_Ngadep_Atas_(cropped).jpg" alt="I'm here to help!">
+                    	<img class="Slideshow_Images" src="Jempol_Ngadep_Atas_(cropped).jpg" alt="I'm here to help!">
+                        <div class="text">I'm available to assist you on your project!</div>
                     </div>
                     
                     <div class="mySlides fade">
-                        <img class="Slideshow_Images" src="https://github.com/SektorCyrax/sektorcyrax-portfolio2.github.io/blob/main/HTML5_logo_and_wordmark.svg.png" alt="HTML5 logo"> 
+                        <img class="Slideshow_Images" src="HTML5_logo_and_wordmark.svg.png" alt="HTML5 logo"> 
                         <div class="text">I am a full-stack software developer,<br> trained in:<br>HTML, CSS, JavaScript,</div>
                     </div>
                     
                     <div class="mySlides fade">
-                        <img class="Slideshow_Images" src="https://github.com/SektorCyrax/sektorcyrax-portfolio2.github.io/blob/main/Python-logo-notext.svg.png" alt="Python logo">
-                        <div class="text">the popular programming language Python.</div>
+                        <img class="Slideshow_Images" src="Python-logo-notext.svg.png" alt="Python logo">
+                        <div class="text">the popular programming language Python,</div>
 
-                    </div>
-                    <a class="Previous" onclick="plusSlides(-1)">&#10094;</a>
+</div>
+      <a class="Previous" onclick="plusSlides(-1)">&#10094;</a>
                     <a class="Next" onclick="plusSlides(1)">&#10095;</a>
-                    </div>
+                </div>
                 <br> 
 
                 <div style="text-align: center">
@@ -140,6 +140,6 @@
             <br>
         </p>
     </footer>
-    <script src="https://github.com/SektorCyrax/sektorcyrax-portfolio2.github.io/blob/main/portfolio2.js"></script>
+    <script src="portfolio2.js"></script>
     </body>
 </html>
